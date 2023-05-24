@@ -189,8 +189,8 @@ namespace CustomerProductListTests
         static void TestCustomerListAdd()
         {
             CustomerList list = new CustomerList();
-            Customer p1 = new Customer(1, "T100", "This is a test customer", 100M, 10);
-            Customer p2 = new Customer(2, "T200", "This is a test customer 2", 200M, 20);
+            Customer p1 = new Customer("test@test.mail", "nameFirst", 0, "nameLast", "123.123.1234");
+            Customer p2 = new Customer("twotest@test.mail", "twonameFirst", 1, "twonameLast", "234.234.2345");
 
             Console.WriteLine("Testing customer list add.");
             Console.WriteLine("BEFORE Count.  Expecting 0. " + list.Count);
@@ -206,8 +206,8 @@ namespace CustomerProductListTests
         static void TestCustomerListSaveAndFill()
         {
             CustomerList list = new CustomerList();
-            Customer p1 = new Customer(1, "T100", "This is a test customer", 100M, 10);
-            Customer p2 = new Customer(2, "T200", "This is a test customer 2", 200M, 20);
+            Customer p1 = new Customer("test@test.mail", "nameFirst", 0, "nameLast", "123.123.1234");
+            Customer p2 = new Customer("twotest@test.mail", "twonameFirst", 1, "twonameLast", "234.234.2345");
             list.Add(p1);
             list += p2;
             list.Save();
@@ -223,10 +223,10 @@ namespace CustomerProductListTests
         static void TestCustomerEquals()
         {
             // these 2 objects should be equal.  They reference the same object.
-            Customer p1 = new Customer(1, "T100", "This is a test customer", 100M, 10);
+            Customer p1 = new Customer("test@test.mail", "nameFirst", 0, "nameLast", "123.123.1234");
             Customer p1Reference = p1;
             // these 2 objects should be equal after overridding Equals.  The attribute values are all equal.
-            Customer p2 = new Customer(1, "T100", "This is a test customer", 100M, 10);
+            Customer p2 = new Customer("test@test.mail", "nameFirst", 0, "nameLast", "123.123.1234");
 
             Console.WriteLine("Testing customer equals.");
             Console.WriteLine("2 references to the same object.  Expecting true. " + p1.Equals(p1Reference));
@@ -239,7 +239,7 @@ namespace CustomerProductListTests
         {
             // test fails before I add equals to customer
             CustomerList list = new CustomerList();
-            Customer p1 = new Customer(1, "T100", "This is a test customer", 100M, 10);
+            Customer p1 = new Customer("test@test.mail", "nameFirst", 0, "nameLast", "123.123.1234");
 
             list.Fill();
             Console.WriteLine("Testing customer list remove.");
@@ -253,11 +253,11 @@ namespace CustomerProductListTests
 
         static void TestCustomerGetHashCode()
         {
-            Customer p1 = new Customer(1, "T100", "This is a test customer", 100M, 10);
+            Customer p1 = new Customer("test@test.mail", "nameFirst", 0, "nameLast", "123.123.1234");
             // these 2 objects should have the same hashcode.  The attribute values are all equal.
-            Customer p2 = new Customer(1, "T100", "This is a test customer", 100M, 10);
+            Customer p2 = new Customer("test@test.mail", "nameFirst", 0, "nameLast", "123.123.1234");
             // this one should have a unique hashcode
-            Customer p3 = new Customer(3, "T300", "This is a test customer 3", 300M, 30);
+            Customer p3 = new Customer("threetest@test.mail", "threenameFirst", 2, "threenameLast", "345.345.3456");
 
             Console.WriteLine("Testing customer GetHashCode");
             Console.WriteLine("2 object that have the same properties should have the same hashcode.  Expecting true. " + (p1.GetHashCode() == p2.GetHashCode()));
@@ -276,10 +276,10 @@ namespace CustomerProductListTests
         static void TestCustomerEqualityOperator()
         {
             // these 2 objects should be equal.  They reference the same object.
-            Customer p1 = new Customer(1, "T100", "This is a test customer", 100M, 10);
+            Customer p1 = new Customer("test@test.mail", "nameFirst", 0, "nameLast", "123.123.1234");
             Customer p1Reference = p1;
             // these 2 objects should be equal after overridding Equals.  The attribute values are all equal.
-            Customer p2 = new Customer(1, "T100", "This is a test customer", 100M, 10);
+            Customer p2 = new Customer("test@test.mail", "nameFirst", 0, "nameLast", "123.123.1234");
 
             Console.WriteLine("Testing customer ==");
             Console.WriteLine("2 references to the same object.  Expecting true. " + (p1 == p1Reference));
@@ -290,10 +290,10 @@ namespace CustomerProductListTests
         static void TestCustomerInequalityOperator()
         {
             // these 2 objects should be equal after overridding Equals.  The attribute values are all equal.
-            Customer p1 = new Customer(1, "T100", "This is a test customer", 100M, 10);
-            Customer p2 = new Customer(1, "T100", "This is a test customer", 100M, 10);
+            Customer p1 = new Customer("test@test.mail", "nameFirst", 0, "nameLast", "123.123.1234");
+            Customer p2 = new Customer("test@test.mail", "nameFirst", 0, "nameLast", "123.123.1234");
             // this one should not be equal
-            Customer p3 = new Customer(3, "T300", "This is a test customer 3", 300M, 30);
+            Customer p3 = new Customer("threetest@test.mail", "threenameFirst", 2, "threenameLast", "345.345.3456");
 
             Console.WriteLine("Testing customer !=");
             Console.WriteLine("2 objects that have the same properties should be equal.  Expecting false. " + (p1 != p2));

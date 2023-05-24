@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.exe
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.deps.json
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.runtimeconfig.json
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.runtimeconfig.dev.json
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.dll
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\ref\CustomerList.dll
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.pdb
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.AssemblyInfo.cs
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.dll
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\ref\CustomerList.dll
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.pdb
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.genruntimeconfig.cache
