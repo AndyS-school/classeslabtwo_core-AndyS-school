@@ -1,0 +1,64 @@
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.exe
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.deps.json
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.runtimeconfig.json
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.runtimeconfig.dev.json
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.dll
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\ref\CustomerList.dll
+C:\Users\Student\Desktop\ProductList\ProductList\bin\Debug\net5.0\CustomerList.pdb
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.AssemblyInfo.cs
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.dll
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\ref\CustomerList.dll
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.pdb
+C:\Users\Student\Desktop\ProductList\ProductList\obj\Debug\net5.0\CustomerList.genruntimeconfig.cache
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.exe
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.deps.json
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.runtimeconfig.json
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.runtimeconfig.dev.json
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.dll
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\bin\Debug\net5.0\ref\CustomerList.dll
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.pdb
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.csproj.AssemblyReference.cache
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.AssemblyInfoInputs.cache
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.AssemblyInfo.cs
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.csproj.CoreCompileInputs.cache
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.dll
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\obj\Debug\net5.0\ref\CustomerList.dll
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.pdb
+D:\Schoolin\shitidk\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.genruntimeconfig.cache
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.exe
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.deps.json
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.runtimeconfig.json
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.runtimeconfig.dev.json
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.dll
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\bin\Debug\net5.0\ref\CustomerList.dll
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.pdb
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.AssemblyInfo.cs
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.dll
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\obj\Debug\net5.0\ref\CustomerList.dll
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.pdb
+C:\Users\Student\Desktop\New folder\classeslabtwo_core-AndyS-school\what_i_got_GRADE_THIS_FOR_FIRST_DRAFT\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.genruntimeconfig.cache
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.exe
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.deps.json
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.runtimeconfig.json
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.runtimeconfig.dev.json
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.dll
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\bin\Debug\net5.0\ref\CustomerList.dll
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\bin\Debug\net5.0\CustomerList.pdb
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.csproj.AssemblyReference.cache
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.AssemblyInfoInputs.cache
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.AssemblyInfo.cs
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.csproj.CoreCompileInputs.cache
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.dll
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\obj\Debug\net5.0\ref\CustomerList.dll
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.pdb
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\FreshStart\ProductList\ProductList\ProductList\obj\Debug\net5.0\CustomerList.genruntimeconfig.cache

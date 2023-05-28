@@ -1,0 +1,5 @@
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\StartingFiles\MexicanTrainDominos\MexicalTrainDominoes\MexicalTrainDominoes\obj\Debug\net5.0\MexicalTrainDominoes.csproj.AssemblyReference.cache
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\StartingFiles\MexicanTrainDominos\MexicalTrainDominoes\MexicalTrainDominoes\obj\Debug\net5.0\MexicalTrainDominoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\StartingFiles\MexicanTrainDominos\MexicalTrainDominoes\MexicalTrainDominoes\obj\Debug\net5.0\MexicalTrainDominoes.AssemblyInfoInputs.cache
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\StartingFiles\MexicanTrainDominos\MexicalTrainDominoes\MexicalTrainDominoes\obj\Debug\net5.0\MexicalTrainDominoes.AssemblyInfo.cs
+D:\Schoolin\Spring 2023\Cs2_Lab5_GitRepo\classeslabtwo_core-AndyS-school\StartingFiles\MexicanTrainDominos\MexicalTrainDominoes\MexicalTrainDominoes\obj\Debug\net5.0\MexicalTrainDominoes.csproj.CoreCompileInputs.cache
